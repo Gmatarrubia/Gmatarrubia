@@ -1,12 +1,13 @@
 <p align="center">
-<img src="images/githubBanner.gif" width="500"></img>
+<a href="https://github.com/Gmatarrubia"><img src="images/githubBanner.gif" width="500"></img>
 </p>
 
-### 👋 Reach me out.
+<p align="center">
+  <b>👋 Reach me out.</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gonzalo-matarrubia-gonzalez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
 
 <hr/>
